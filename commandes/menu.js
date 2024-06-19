@@ -65,6 +65,10 @@ const date = moment().format('DD/MM/YYYY');
   *❒BMW-MD-V6❒*                                         
 *╰─═════════════❒*
 `;
+ 
+ conn.sendButton(m.chat, text.replace(), author, pp, [['Script 🌹', '.script'], ['Bot Speed 🚀', '.ping']], null, [['Follow Owner 🫣', smlink], ['Join Group 🥰', gclink]], m);
+     
+     
 
    var lien = mybotpic();
 

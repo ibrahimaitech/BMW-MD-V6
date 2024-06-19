@@ -1,5 +1,5 @@
 {
-  "name": "IBRAHIM-TECH",
+  "name": "BMW-MD",
   "version": "2.0.0",
   "description": "",
   "main": "index.js",
@@ -12,12 +12,12 @@
   "keywords": [
     "bot",
     "Baileys",
-    "IBRAHIM-TECH",
+    "Ibrahim adams",
     "whatsapp",
     "whatsapp-bot",
-    "franceking1"
+    "ibrahimaitech"
   ],
-  "author": "France King",
+  "author": "Ibrahim Adams",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
@@ -67,4 +67,4 @@
     "yt-search": "^2.10.4",
     "ytdl-core": "^4.10.0"
   }
-}
+  }
